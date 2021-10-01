@@ -1,0 +1,13 @@
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\C#\Enemy Scrip\Enemy Scrip\obj\Debug\netcoreapp3.1\Enemy Scrip.csprojAssemblyReference.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\C#\Enemy Scrip\Enemy Scrip\obj\Debug\netcoreapp3.1\Enemy Scrip.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\C#\Enemy Scrip\Enemy Scrip\obj\Debug\netcoreapp3.1\Enemy Scrip.AssemblyInfo.cs
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\C#\Enemy Scrip\Enemy Scrip\obj\Debug\netcoreapp3.1\Enemy Scrip.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\C#\Enemy Scrip\Enemy Scrip\bin\Debug\netcoreapp3.1\Enemy Scrip.exe
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\C#\Enemy Scrip\Enemy Scrip\bin\Debug\netcoreapp3.1\Enemy Scrip.deps.json
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\C#\Enemy Scrip\Enemy Scrip\bin\Debug\netcoreapp3.1\Enemy Scrip.runtimeconfig.json
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\C#\Enemy Scrip\Enemy Scrip\bin\Debug\netcoreapp3.1\Enemy Scrip.runtimeconfig.dev.json
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\C#\Enemy Scrip\Enemy Scrip\bin\Debug\netcoreapp3.1\Enemy Scrip.dll
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\C#\Enemy Scrip\Enemy Scrip\bin\Debug\netcoreapp3.1\Enemy Scrip.pdb
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\C#\Enemy Scrip\Enemy Scrip\obj\Debug\netcoreapp3.1\Enemy Scrip.dll
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\C#\Enemy Scrip\Enemy Scrip\obj\Debug\netcoreapp3.1\Enemy Scrip.pdb
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\C#\Enemy Scrip\Enemy Scrip\obj\Debug\netcoreapp3.1\Enemy Scrip.genruntimeconfig.cache

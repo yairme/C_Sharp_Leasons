@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Enemy_Scrip</RootNamespace>
+    <StartupObject>Enemy_Scrip.BP</StartupObject>
+  </PropertyGroup>
+
+</Project>

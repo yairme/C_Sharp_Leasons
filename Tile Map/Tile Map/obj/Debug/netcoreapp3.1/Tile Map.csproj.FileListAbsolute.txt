@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\Feature Development\None Unity\Tile Map\Tile Map\bin\Debug\netcoreapp3.1\Tile Map.exe
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\Feature Development\None Unity\Tile Map\Tile Map\bin\Debug\netcoreapp3.1\Tile Map.deps.json
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\Feature Development\None Unity\Tile Map\Tile Map\bin\Debug\netcoreapp3.1\Tile Map.runtimeconfig.json
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\Feature Development\None Unity\Tile Map\Tile Map\bin\Debug\netcoreapp3.1\Tile Map.runtimeconfig.dev.json
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\Feature Development\None Unity\Tile Map\Tile Map\bin\Debug\netcoreapp3.1\Tile Map.dll
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\Feature Development\None Unity\Tile Map\Tile Map\bin\Debug\netcoreapp3.1\Tile Map.pdb
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\Feature Development\None Unity\Tile Map\Tile Map\obj\Debug\netcoreapp3.1\Tile Map.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\Feature Development\None Unity\Tile Map\Tile Map\obj\Debug\netcoreapp3.1\Tile Map.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\Feature Development\None Unity\Tile Map\Tile Map\obj\Debug\netcoreapp3.1\Tile Map.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\Feature Development\None Unity\Tile Map\Tile Map\obj\Debug\netcoreapp3.1\Tile Map.AssemblyInfo.cs
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\Feature Development\None Unity\Tile Map\Tile Map\obj\Debug\netcoreapp3.1\Tile Map.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\Feature Development\None Unity\Tile Map\Tile Map\obj\Debug\netcoreapp3.1\Tile Map.dll
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\Feature Development\None Unity\Tile Map\Tile Map\obj\Debug\netcoreapp3.1\Tile Map.pdb
+C:\Users\Gebruiker\OneDrive\Desktop\Shool work\Year_2\Periode_1\Feature Development\None Unity\Tile Map\Tile Map\obj\Debug\netcoreapp3.1\Tile Map.genruntimeconfig.cache
